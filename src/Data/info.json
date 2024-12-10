@@ -1,0 +1,42 @@
+{
+  "Admin": [
+    {
+      "id": "fbc9",
+      "name": "rock",
+      "password": "rock",
+      "phone": "0987654321",
+      "email": "rock@gmail.com"
+    }
+  ],
+  "User": [
+    {
+      "id": "4f9d",
+      "name": "kane",
+      "email": "kane@gmail.com",
+      "password": "kane",
+      "phone": "1234567809"
+    }
+  ],
+  "Products": [
+    {
+      "category": "Electronics",
+      "productname": "Hp Laptop",
+      "price": "77000",
+      "desc": "HP 15 Core i5 13th Gen (16GB RAM/512GB SSD/FHD/15.6\" (39.6 cm)/Windows 11/MS Office' 21/Backlit Keyboard/Silver/ 1.59 kg) fd0221TU Laptop",
+      "thum": "https://m.media-amazon.com/images/I/41nwRy8oc8L._SX300_SY300_QL70_FMwebp_.jpg",
+      "rating": "5",
+      "id": "3880"
+    }
+  ],
+  "UserProducts": [
+    {
+      "category": "Electronics",
+      "productname": "Hp Laptop",
+      "price": "100000",
+      "desc": "HP 15 Core i5 13th Gen (16GB RAM/512GB SSD/FHD/15.6\" (39.6 cm)/Windows 11/MS Office' 21/Backlit Keyboard/Silver/ 1.59 kg) fd0221TU Laptop",
+      "thum": "https://m.media-amazon.com/images/I/41nwRy8oc8L._SX300_SY300_QL70_FMwebp_.jpg",
+      "rating": "4.5",
+      "id": "3880"
+    }
+  ]
+}

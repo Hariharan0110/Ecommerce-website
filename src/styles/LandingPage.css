@@ -1,0 +1,49 @@
+.landmain{
+    background: linear-gradient(135deg, #6a82fb, #fc5c7d);
+    height: 100vh;
+  }
+
+.Land{
+
+  background-color: #ffff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 500px;
+  width: 600px;
+  position: relative;
+  top: 13vh;
+  left: 30vw;
+  border-radius: 50px;
+}
+
+a{
+      text-decoration: none;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .one:hover{
+      transform: scale(1.1);
+  }
+   /*.one{
+    
+      /* height: 100%; */
+     /* border: 5px solid grey; */
+     /* border-radius: 10px; 
+     
+     
+  
+      /* background-color:black; 
+   }*/
+   /*.two{
+      /* height: 100%; */
+     /* border: 5px solid grey; */
+     /* border: 5px solid grey; 
+  }*/
+   .two:hover{
+      transform: scale(1.1);
+  }
+
+
+  #image{
+    width:150px;
+  }

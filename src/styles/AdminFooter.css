@@ -1,0 +1,27 @@
+/* .ADfooter{
+    background-color: #1a1a1a;
+    position: absolute;
+    bottom: 0px;
+    color: white;
+    width: 100%;
+} */
+.footer {
+    background-color: #333; 
+    color: white; 
+    padding: 20px; 
+    /* position: fixed; */
+    /* bottom: 0px; */
+    width: 100%;
+    z-index: 1000;
+    height : 215px;
+}
+
+.content{
+    display:flex;
+    justify-content:  space-around;
+}
+
+.footer-bottom{
+    text-align: center;
+    color:white;
+}

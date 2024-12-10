@@ -1,0 +1,59 @@
+
+.adminnav {
+    position:fixed;
+    top :0px;
+    width: 100%;
+    background-color: #f0f0f0;  
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px; 
+    border: 1px solid #ccc; 
+    border-radius: 10px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  
+    z-index: 1000;
+}
+
+ 
+
+
+
+#logofb{
+    height: 60px;   
+    /* width:100%; */
+    /* background-color:blue; */
+    margin-left: 100px;
+    
+
+}
+.links{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width:400px;
+    /* background-color:green; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 20px;
+    
+}
+
+#goto{
+    color:rgb(41, 39, 39);
+    text-decoration: none;
+    transition: color 0.3s, transform 0.3s;
+
+}
+#goto:hover{
+    
+    transform: scale(1.1);
+    color:red;
+ 
+} 
+
+
+#dropdown-down:hover {
+    background-color: #f8f9fa;
+    color: #dc3545; /* Change text color on hover (Bootstrap's danger color) */
+}
+

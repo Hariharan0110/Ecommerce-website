@@ -1,0 +1,92 @@
+form{
+
+    /* padding-top: 50px; */
+    display: grid;
+    font-size: 20px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  
+}
+
+.formbg{
+     /* background-image: url('https://themefisher.com/blog-thumb/e-commerce-website-admin-panel-templates.webp'); */
+    
+    background-color: white;
+    height:550px;
+    width: 600px;
+    border-radius: 50px;
+    overflow: hidden;
+
+}
+.sign{
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #6a82fb, #fc5c7d);
+    height: 100vh;
+    width: 100vw;
+    /* background-image: url('https://themefisher.com/blog-thumb/e-commerce-website-admin-panel-templates.webp'); */
+  
+}
+form input{
+font-size: 20px;
+}
+.formbg form label{
+    margin-left: 20px;
+}
+.formbg form input{
+    height: 35px;
+    border-radius: 10px;
+    margin: 15px 15px;
+}
+#btn{
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    /* background-color: red; */
+}
+#btn1{
+    width: 150px;
+    
+    margin-top: 5px;
+    font-size: 20px;
+    border-radius: 30px;
+    background-color: #57B846;
+    color: #FFFF;
+    font-weight: bold;
+    /* width:80px ; */
+    height:40px;
+overflow: hidden;
+}
+.eye{
+    /* background-color: red; */
+    height: 30px;
+    width: 30px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE7drxXWCHEbbLtwyu6Toy9ZFQpSHb6P7ZYkvUlQX6F54X7SjXv-YLSfM4WC1_g_WrKjA&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    bottom: 390px;
+    right: 580px;
+
+}
+#eyebtn{
+    width: 100%;
+    height: 100%;
+    background: inherit;
+    border: none;
+}
+form input:hover{
+   border:1PX solid grey;
+   box-shadow: -2PX -2PX 2PX rgb(120, 120, 120) ;
+   outline: none;
+}
+
+
+
